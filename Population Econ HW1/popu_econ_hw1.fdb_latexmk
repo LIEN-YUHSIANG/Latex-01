@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1701320031 "/Users/y.h.lien/Desktop/Github/Latex-01/file1.tex" "file1.pdf" "file1" 1701320031 0
-  "/Users/y.h.lien/Desktop/Github/Latex-01/file1.tex" 1701320015 11987 15835eafd29c5dde7970e7e27d09d2d7 ""
+["pdflatex"] 1701338475 "/Users/y.h.lien/Desktop/Github/Latex-01/Population Econ HW1/popu_econ_hw1.tex" "popu_econ_hw1.pdf" "popu_econ_hw1" 1701338476 0
+  "/Users/y.h.lien/Desktop/Github/Latex-01/Population Econ HW1/popu_econ_hw1.tex" 1701338475 12486 e88252e5ee4c617d526a94e17fc35a25 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -52,10 +52,16 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701067851 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701067806 7883458 5b0f4b9699451c5814f62bd76682216c ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "file1.aux" 1701320031 226 1422ff9e7faf3818afbf1861c8d8a72f "pdflatex"
-  "file1.tex" 1701320015 11987 15835eafd29c5dde7970e7e27d09d2d7 ""
+  "IMG_6025608848EA-1.jpeg" 1701305916 226751 03c11db222a75ce0f3864e38c4874637 ""
+  "IMG_81E7DB315363-1.jpeg" 1701305916 307556 d555ba6614983707b118df74aedbd9e9 ""
+  "IMG_D506A2FB645C-1.jpeg" 1701305916 214694 a13fd472863f2ee880ef539196f35a2b ""
+  "IMG_E2C6480C7225-1.jpeg" 1701305916 217378 b48dc0123cd674bfc4777906d572fc82 ""
+  "popu_econ_hw1.aux" 1701338476 226 eaf0735940a93dba59fca2513923bc72 "pdflatex"
+  "popu_econ_hw1.tex" 1701338475 12486 e88252e5ee4c617d526a94e17fc35a25 ""
+  "截圖 2023-11-04 上午3.54.13.png" 1701305916 273143 0e918b1d22b81640a5032f6877c6f99a ""
+  "截圖 2023-11-04 上午4.02.53.png" 1701305916 233088 f96fe669d51971e330d1ede628a9ea62 ""
   (generated)
-  "file1.aux"
-  "file1.log"
-  "file1.pdf"
+  "popu_econ_hw1.aux"
+  "popu_econ_hw1.log"
+  "popu_econ_hw1.pdf"
   (rewritten before read)
