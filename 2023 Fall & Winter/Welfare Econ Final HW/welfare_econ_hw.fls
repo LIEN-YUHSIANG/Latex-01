@@ -412,11 +412,11 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntx-Bold-tlf-ot1.
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/txbmiaX.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1r.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
-INPUT ./lorenzcurve_bgd&mg.pdf
-INPUT ./lorenzcurve_bgd&mg.pdf
-INPUT lorenzcurve_bgd&mg.pdf
-INPUT ./lorenzcurve_bgd&mg.pdf
-INPUT ./lorenzcurve_bgd&mg.pdf
+INPUT ./bgd_mdg_curve.pdf
+INPUT ./bgd_mdg_curve.pdf
+INPUT bgd_mdg_curve.pdf
+INPUT ./bgd_mdg_curve.pdf
+INPUT ./bgd_mdg_curve.pdf
 INPUT ./bdg_mdg_2.png
 INPUT ./bdg_mdg_2.png
 INPUT bdg_mdg_2.png

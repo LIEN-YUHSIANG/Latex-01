@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 05:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 05:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -416,11 +416,11 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 33.
-<lorenzcurve_bgd&mg.pdf, id=8, 362.35374pt x 362.35374pt>
-File: lorenzcurve_bgd&mg.pdf Graphic file (type pdf)
-<use lorenzcurve_bgd&mg.pdf>
-Package pdftex.def Info: lorenzcurve_bgd&mg.pdf  used on input line 38.
-(pdftex.def)             Requested size: 361.34999pt x 361.35762pt.
+<bgd_mdg_curve.pdf, id=8, 363.3575pt x 363.3575pt>
+File: bgd_mdg_curve.pdf Graphic file (type pdf)
+<use bgd_mdg_curve.pdf>
+Package pdftex.def Info: bgd_mdg_curve.pdf  used on input line 38.
+(pdftex.def)             Requested size: 361.34999pt x 361.36061pt.
 <bdg_mdg_2.png, id=9, 196.735pt x 47.17625pt>
 File: bdg_mdg_2.png Graphic file (type png)
 <use bdg_mdg_2.png>
@@ -447,7 +447,7 @@ File: bdg_mdg_1.png Graphic file (type png)
 <use bdg_mdg_1.png>
 Package pdftex.def Info: bdg_mdg_1.png  used on input line 50.
 (pdftex.def)             Requested size: 361.34999pt x 42.3086pt.
- [1 <./lorenzcurve_bgd&mg.pdf> <./bdg_mdg_2.png> <./bdg_mdg_1.png>]
+ [1 <./bgd_mdg_curve.pdf> <./bdg_mdg_2.png> <./bdg_mdg_1.png>]
 <nor_usa_lorenz.pdf, id=31, 362.35374pt x 363.3575pt>
 File: nor_usa_lorenz.pdf Graphic file (type pdf)
 <use nor_usa_lorenz.pdf>
@@ -471,14 +471,14 @@ Overfull \hbox (27.1927pt too wide) in paragraph at lines 82--83
 [2 <./nor_usa_lorenz.pdf> <./nor_usa_2.png> <./nor_usa_1.png>] (./welfare_econ_hw.aux) ) 
 Here is how much of TeX's memory you used:
  7846 strings out of 476025
- 118454 string characters out of 5790016
+ 118419 string characters out of 5790016
  1853388 words of memory out of 5000000
  28193 multiletter control sequences out of 15000+600000
  533717 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,5n,76p,396b,244s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on welfare_econ_hw.pdf (3 pages, 217313 bytes).
+Output written on welfare_econ_hw.pdf (3 pages, 217342 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream

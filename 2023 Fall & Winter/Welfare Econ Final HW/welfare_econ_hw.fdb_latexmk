@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706559131 "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" "welfare_econ_hw.pdf" "welfare_econ_hw" 1706559132 0
-  "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" 1706559131 2164 eb94c4ed7a364613fb8738e40a2ce667 ""
+["pdflatex"] 1706559483 "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" "welfare_econ_hw.pdf" "welfare_econ_hw" 1706559483 0
+  "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" 1706559483 2171 49bec2ad9e4cfcd0e28bd0a507a56f0f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm" 1572128992 1408 ef71a9098da4d5a1a85b5920860b6731 ""
@@ -92,12 +92,12 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "bdg_mdg_1.png" 1706557196 30062 6aca0826c7b48567e0774b7bc1e84357 ""
   "bdg_mdg_2.png" 1706557283 16062 e483472ea63a697a1bffcd2bb693db18 ""
-  "lorenzcurve_bgd&mg.pdf" 1706552218 32992 3297d01f4fb5ca4856dd21b0ab208ac2 ""
+  "bgd_mdg_curve.pdf" 1706559453 32969 1410540d9309e8d6baf88135d072bb4d ""
   "nor_usa_1.png" 1706557469 29851 626c3dbe8cd485c1b757d0e3c7e04655 ""
   "nor_usa_2.png" 1706557486 14785 73efb796d779e40771ece08124e7ab3f ""
   "nor_usa_lorenz.pdf" 1706557402 33868 543b9650e66d8d1a56ced72a8f8d6553 ""
-  "welfare_econ_hw.aux" 1706559132 247 2f6ebc33bd3fe1035020fd81379870ca "pdflatex"
-  "welfare_econ_hw.tex" 1706559131 2164 eb94c4ed7a364613fb8738e40a2ce667 ""
+  "welfare_econ_hw.aux" 1706559483 247 2f6ebc33bd3fe1035020fd81379870ca "pdflatex"
+  "welfare_econ_hw.tex" 1706559483 2171 49bec2ad9e4cfcd0e28bd0a507a56f0f ""
   (generated)
   "welfare_econ_hw.aux"
   "welfare_econ_hw.log"
