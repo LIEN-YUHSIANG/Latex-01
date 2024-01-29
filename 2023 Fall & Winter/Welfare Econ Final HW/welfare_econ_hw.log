@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 04:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 04:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -421,11 +421,11 @@ File: lorenzcurve_bgd&mg.pdf Graphic file (type pdf)
 <use lorenzcurve_bgd&mg.pdf>
 Package pdftex.def Info: lorenzcurve_bgd&mg.pdf  used on input line 38.
 (pdftex.def)             Requested size: 361.34999pt x 361.35762pt.
-<bdg_mdg_1.png, id=9, 522.95375pt x 61.22874pt>
-File: bdg_mdg_1.png Graphic file (type png)
-<use bdg_mdg_1.png>
-Package pdftex.def Info: bdg_mdg_1.png  used on input line 42.
-(pdftex.def)             Requested size: 361.34999pt x 42.3086pt.
+<bdg_mdg_2.png, id=9, 196.735pt x 47.17625pt>
+File: bdg_mdg_2.png Graphic file (type png)
+<use bdg_mdg_2.png>
+Package pdftex.def Info: bdg_mdg_2.png  used on input line 42.
+(pdftex.def)             Requested size: 144.54pt x 34.66006pt.
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 44.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
@@ -442,28 +442,28 @@ LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 4
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-<bdg_mdg_2.png, id=11, 196.735pt x 47.17625pt>
-File: bdg_mdg_2.png Graphic file (type png)
-<use bdg_mdg_2.png>
-Package pdftex.def Info: bdg_mdg_2.png  used on input line 46.
-(pdftex.def)             Requested size: 144.54pt x 34.66006pt.
- [1 <./lorenzcurve_bgd&mg.pdf> <./bdg_mdg_1.png> <./bdg_mdg_2.png>]
+<bdg_mdg_1.png, id=11, 522.95375pt x 61.22874pt>
+File: bdg_mdg_1.png Graphic file (type png)
+<use bdg_mdg_1.png>
+Package pdftex.def Info: bdg_mdg_1.png  used on input line 46.
+(pdftex.def)             Requested size: 361.34999pt x 42.3086pt.
+ [1 <./lorenzcurve_bgd&mg.pdf> <./bdg_mdg_2.png> <./bdg_mdg_1.png>]
 <nor_usa_lorenz.pdf, id=30, 362.35374pt x 363.3575pt>
 File: nor_usa_lorenz.pdf Graphic file (type pdf)
 <use nor_usa_lorenz.pdf>
 Package pdftex.def Info: nor_usa_lorenz.pdf  used on input line 58.
 (pdftex.def)             Requested size: 361.34999pt x 362.3586pt.
-<nor_usa_1.png, id=31, 523.9575pt x 62.2325pt>
-File: nor_usa_1.png Graphic file (type png)
-<use nor_usa_1.png>
-Package pdftex.def Info: nor_usa_1.png  used on input line 62.
-(pdftex.def)             Requested size: 361.34999pt x 42.91957pt.
-<nor_usa_2.png, id=32, 196.735pt x 45.16875pt>
+<nor_usa_2.png, id=31, 196.735pt x 45.16875pt>
 File: nor_usa_2.png Graphic file (type png)
 <use nor_usa_2.png>
-Package pdftex.def Info: nor_usa_2.png  used on input line 66.
+Package pdftex.def Info: nor_usa_2.png  used on input line 62.
 (pdftex.def)             Requested size: 144.54pt x 33.18518pt.
- [2 <./nor_usa_lorenz.pdf> <./nor_usa_1.png> <./nor_usa_2.png>] (./welfare_econ_hw.aux) ) 
+<nor_usa_1.png, id=32, 523.9575pt x 62.2325pt>
+File: nor_usa_1.png Graphic file (type png)
+<use nor_usa_1.png>
+Package pdftex.def Info: nor_usa_1.png  used on input line 66.
+(pdftex.def)             Requested size: 361.34999pt x 42.91957pt.
+ [2 <./nor_usa_lorenz.pdf> <./nor_usa_2.png> <./nor_usa_1.png>] (./welfare_econ_hw.aux) ) 
 Here is how much of TeX's memory you used:
  7843 strings out of 476025
  118432 string characters out of 5790016
@@ -473,7 +473,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  71i,5n,76p,396b,244s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on welfare_econ_hw.pdf (3 pages, 198189 bytes).
+Output written on welfare_econ_hw.pdf (3 pages, 198185 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
