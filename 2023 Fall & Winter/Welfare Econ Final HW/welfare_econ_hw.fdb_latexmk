@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706559483 "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" "welfare_econ_hw.pdf" "welfare_econ_hw" 1706559483 0
-  "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" 1706559483 2171 49bec2ad9e4cfcd0e28bd0a507a56f0f ""
+["pdflatex"] 1706559644 "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" "welfare_econ_hw.pdf" "welfare_econ_hw" 1706559645 0
+  "/Users/y.h.lien/Desktop/Github/Latex-01/2023 Fall & Winter/Welfare Econ Final HW/welfare_econ_hw.tex" 1706559644 2167 823a1856b6b9cd9ce0eb3b5576d69dad ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm" 1572128992 1408 ef71a9098da4d5a1a85b5920860b6731 ""
@@ -96,8 +96,8 @@
   "nor_usa_1.png" 1706557469 29851 626c3dbe8cd485c1b757d0e3c7e04655 ""
   "nor_usa_2.png" 1706557486 14785 73efb796d779e40771ece08124e7ab3f ""
   "nor_usa_lorenz.pdf" 1706557402 33868 543b9650e66d8d1a56ced72a8f8d6553 ""
-  "welfare_econ_hw.aux" 1706559483 247 2f6ebc33bd3fe1035020fd81379870ca "pdflatex"
-  "welfare_econ_hw.tex" 1706559483 2171 49bec2ad9e4cfcd0e28bd0a507a56f0f ""
+  "welfare_econ_hw.aux" 1706559645 247 2f6ebc33bd3fe1035020fd81379870ca "pdflatex"
+  "welfare_econ_hw.tex" 1706559644 2167 823a1856b6b9cd9ce0eb3b5576d69dad ""
   (generated)
   "welfare_econ_hw.aux"
   "welfare_econ_hw.log"
