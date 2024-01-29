@@ -478,6 +478,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntxmi7.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/NewTXMI7.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntxmia.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/txmiaSTbb.tfm
 INPUT ./nor_usa_lorenz.pdf
 INPUT ./nor_usa_lorenz.pdf
 INPUT nor_usa_lorenz.pdf
@@ -493,8 +495,13 @@ INPUT ./nor_usa_1.png
 INPUT nor_usa_1.png
 INPUT ./nor_usa_1.png
 INPUT ./nor_usa_1.png
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT welfare_econ_hw.aux
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb

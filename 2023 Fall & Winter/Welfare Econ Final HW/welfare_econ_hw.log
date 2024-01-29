@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 04:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.27)  30 JAN 2024 05:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -426,57 +426,62 @@ File: bdg_mdg_2.png Graphic file (type png)
 <use bdg_mdg_2.png>
 Package pdftex.def Info: bdg_mdg_2.png  used on input line 42.
 (pdftex.def)             Requested size: 144.54pt x 34.66006pt.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 44.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 48.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 44.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 48.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 44.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 48.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 44.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 48.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 <bdg_mdg_1.png, id=11, 522.95375pt x 61.22874pt>
 File: bdg_mdg_1.png Graphic file (type png)
 <use bdg_mdg_1.png>
-Package pdftex.def Info: bdg_mdg_1.png  used on input line 46.
+Package pdftex.def Info: bdg_mdg_1.png  used on input line 50.
 (pdftex.def)             Requested size: 361.34999pt x 42.3086pt.
  [1 <./lorenzcurve_bgd&mg.pdf> <./bdg_mdg_2.png> <./bdg_mdg_1.png>]
-<nor_usa_lorenz.pdf, id=30, 362.35374pt x 363.3575pt>
+<nor_usa_lorenz.pdf, id=31, 362.35374pt x 363.3575pt>
 File: nor_usa_lorenz.pdf Graphic file (type pdf)
 <use nor_usa_lorenz.pdf>
-Package pdftex.def Info: nor_usa_lorenz.pdf  used on input line 58.
+Package pdftex.def Info: nor_usa_lorenz.pdf  used on input line 66.
 (pdftex.def)             Requested size: 361.34999pt x 362.3586pt.
-<nor_usa_2.png, id=31, 196.735pt x 45.16875pt>
+<nor_usa_2.png, id=32, 196.735pt x 45.16875pt>
 File: nor_usa_2.png Graphic file (type png)
 <use nor_usa_2.png>
-Package pdftex.def Info: nor_usa_2.png  used on input line 62.
+Package pdftex.def Info: nor_usa_2.png  used on input line 70.
 (pdftex.def)             Requested size: 144.54pt x 33.18518pt.
-<nor_usa_1.png, id=32, 523.9575pt x 62.2325pt>
+<nor_usa_1.png, id=33, 523.9575pt x 62.2325pt>
 File: nor_usa_1.png Graphic file (type png)
 <use nor_usa_1.png>
-Package pdftex.def Info: nor_usa_1.png  used on input line 66.
+Package pdftex.def Info: nor_usa_1.png  used on input line 78.
 (pdftex.def)             Requested size: 361.34999pt x 42.91957pt.
- [2 <./nor_usa_lorenz.pdf> <./nor_usa_2.png> <./nor_usa_1.png>] (./welfare_econ_hw.aux) ) 
+
+Overfull \hbox (27.1927pt too wide) in paragraph at lines 82--83
+[]\OT1/minntx/m/n/10 USA: $\OML/ntxmi/m/it/10 P[] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 :\OT1/minntx/m/n/10 00999727\OML/ntxmi/m/it/10 ; P[] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 :\OT1/minntx/m/n/10 00870546\OML/ntxmi/m/it/10 ; P[] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 :\OT1/minntx/m/n/10 00794522\OML/ntxmi/m/it/10 ; P[] \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 :\OT1/minntx/m/n/10 00911739\OML/ntxmi/m/it/10 ; IGR \U/ntxmia/m/it/10 = \OT1/minntx/m/n/10 0\OML/ntxmi/m/it/10 :\OT1/minntx/m/n/10 87078361\OML/ntxmi/m/it/10 ; I[] \U/ntxmia/m/it/10 =
+ []
+
+[2 <./nor_usa_lorenz.pdf> <./nor_usa_2.png> <./nor_usa_1.png>] (./welfare_econ_hw.aux) ) 
 Here is how much of TeX's memory you used:
- 7843 strings out of 476025
- 118432 string characters out of 5790016
- 1851388 words of memory out of 5000000
+ 7846 strings out of 476025
+ 118454 string characters out of 5790016
+ 1853388 words of memory out of 5000000
  28193 multiletter control sequences out of 15000+600000
- 532940 words of font info for 72 fonts, out of 8000000 for 9000
+ 533717 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,5n,76p,396b,244s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
-Output written on welfare_econ_hw.pdf (3 pages, 198185 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on welfare_econ_hw.pdf (3 pages, 217313 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
